@@ -1,0 +1,82 @@
+fieldset{
+    margin-left: 250px;
+    margin-right: 250px;
+    margin-top: 50px;
+}
+
+.container{
+  
+    margin-left: 10px;
+    text-transform: capitalize;
+    
+}
+.form-control{
+    
+   
+    border-radius: 50px;
+    max-width: 500px;
+}
+.How-Satisfied-Are-You{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+.How-Likely-Are-You-To{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    
+}
+.form-group{
+    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+.container0{
+    margin-left: 15px;
+    text-transform: capitalize;
+}
+.container1{
+    margin-left: 15px;
+    text-transform: capitalize;
+    
+}
+.container2{
+    margin-left: 15px;
+}
+.container3{
+    margin-left: 15px;
+}
+.container4{
+    margin-left: 15px;
+}
+.container5{
+    margin-left: 15px;
+}
+.container6{
+    margin-left: 15px;
+}
+.container7{
+    margin-left: 15px;
+}
+.purchases{
+    background-color: gray;
+}
+.service{
+    background-color: antiquewhite;
+}
+
+.mb-3{
+    margin-top: 30px;
+    margin-bottom: 10px;
+   
+}
+.input-group{
+    margin-top: 30px;
+    margin-bottom: 10px;
+   
+}
+.btn{
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+}
